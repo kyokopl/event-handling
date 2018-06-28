@@ -39,6 +39,10 @@ function makeBlue (evt) {
   evt.target.style.backgroundColor = 'blue'
 }
 
+function makeGreen (evt) {
+  evt.target.style.backgroundColor = 'green'
+}
+
 function makeWhite (evt) {
   evt.target.style.backgroundColor = 'white'
 }
